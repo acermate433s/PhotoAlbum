@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Adrian Demavivas</Authors>
+    <Company>None Co. Ltd.</Company>
+    <PackageId>acermate433s.PhotoAlbum.Core</PackageId>
+  </PropertyGroup>
+
+</Project>
