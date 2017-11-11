@@ -15,6 +15,6 @@ namespace PhotoAlbum.Core
         /// Photos in the album.
         /// </summary>
         [DisplayName("Photos")]
-        IEnumerable<Photo> Photos { get; }
+        IEnumerable<IPhoto> Photos { get; }
     }
 }

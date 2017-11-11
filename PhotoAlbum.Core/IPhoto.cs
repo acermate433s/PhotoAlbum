@@ -2,7 +2,7 @@
 
 namespace PhotoAlbum.Core
 {
-    public interface Photo
+    public interface IPhoto
     {
         /// <summary>
         /// Hash code of the photo.
